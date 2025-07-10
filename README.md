@@ -114,6 +114,29 @@
 </p>
 
 ---
+## 🔥 GitHub Activity Graph
+
+<p align="center">
+  <a href="https://github.com/tanmay2765" title="Check out my GitHub profile!">
+    <img 
+      src="https://komarev.com/ghpvc/?username=tanmay2765&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
+      alt="Profile Views" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay2765&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2765&theme=tokyonight" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay2765&theme=github_dark" />
+</p>
+
 
 ## 🎧 Fun Facts
 
