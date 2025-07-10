@@ -3,8 +3,9 @@
 <h3 align="center">🎓 BTech CSE | 🧠 AI & ML Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Practical+Solutions+with+Code;Learning+Machine+Learning+%26+Data+Science;Improving+every+single+day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+there!;Welcome+to+my+profile!;I+love+coding!;Machine+Learning+enthusiast!&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
+
 
 ---
 
