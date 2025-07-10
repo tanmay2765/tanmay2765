@@ -1,26 +1,26 @@
 <!-- Header -->
-<h1 align="center">Hey 👋, I'm Niraj Nillawar</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
+<h1 align="center">Hey 👋, I'm [Your Name]</h1>
+<h3 align="center">💻 ML & Web Developer | 🎓 BTech CSE | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+from+India;Building+Web+Apps+that+Scale;Always+Learning+Something+New..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=ML+%7C+AI+%7C+Web+Development;Building+intelligent+solutions;Learning+every+day+🚀;Let's+create+something+amazing" alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirajdn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nirajnillawar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your_email@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  <a href="https://leetcode.com/YOUR_LEETCODE/" target="_blank" title="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://leetcode.com/u/NirajDN/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://your-portfolio-link.com" target="_blank" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -28,39 +28,64 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer (MERN & modern web)
-- 🛠️ Passionate about clean code and scalable solutions
-- 🌱 Exploring DevOps, Docker, CI/CD, and AWS
-- 🎨 Interested in design workflows using Lightroom & CapCut
-- ☕ I debug faster with chai/coffee in hand!
+- 🎓 BTech CSE Student passionate about **AI, ML, and Full Stack Development**
+- 🚀 Exploring **Operating Systems Optimization, Data Science, and DevOps**
+- 🧩 I love solving algorithmic challenges and building meaningful projects
+- ☕ Always coding with chai and Lo-Fi beats
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,docker,aws,vscode,java,python,flask,jupyter,lightroom,capcut" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,flask,jupyter,tailwind,git,github,lightroom,capcut,docker,aws" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=conda,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+- 🎯 **Railway Congestion ML System**  
+  Predictive ML model forecasting congestion and optimizing routes.  
+  *Python, scikit-learn*
+
+- 🍔 **Food Ordering Website**  
+  Responsive web platform for food orders.  
+  *HTML, CSS*
+
+- 🔐 **Fingerprint Sensor System**  
+  Biometric authentication integration with hardware.  
+
+- ⚙️ **OS Optimizer (WIP)**  
+  Intelligent performance booster for operating systems.  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirajDN&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajDN&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NirajDN&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NirajDN&theme=tokyonight" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -68,49 +93,31 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/NirajDN/NirajDN/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🎧 Fun Facts
 
-- [🔗 **OS Event Logger**](https://github.com/NirajDN/RTOS-EVENT-LOGGER)  
-  🔐 Real-time OS security event logger with live dashboards to monitor system-level activity.
-
-- [🔗 **Time Explorer**](https://github.com/NirajDN/Time-Explorer)  
-  🕰️ Discover major historical events from any date, or get top news headlines.
-
----
-
-## 📝 Latest Blog Posts
-
-- [Generative AI](https://www.carnegiecouncil.org/explore-engage/key-terms/generative-ai)
-- [The MERN Stack: A Practical Tutorial](https://blog.logrocket.com/mern-stack-tutorial/)
-
----
-
-## 🎯 Fun Facts
-
-- 🎧 Code flows smoother with Lo-Fi in the background
-- 🧠 I think in functions
-- 🧩 Love solving puzzles and debugging weird bugs
+- 💡 I think in code and flowcharts
+- 🧩 Debugging is my favorite puzzle
+- 🎵 Lo-Fi + Chai = Productivity
+- 🌱 Always learning something new
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
-💼 Open to freelance projects, collaborations, or a good tech talk.
-
-- 📧 Email: [nirajnillawar@gmail.com](mailto:nirajnillawar@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/nirajdn/)
-- 🌐 [My Portfolio](https://your-portfolio.com)
+💌 **Email:** your_email@example.com  
+💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
-⭐ **Want This Profile?**  
-Star this repo or fork it to use as your own base.
+⭐ **Like this README?**  
+Feel free to **fork it** or **use it as inspiration for yours!**
