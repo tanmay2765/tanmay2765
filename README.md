@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hey 👋, I'm [Your Name]</h1>
-<h3 align="center">🎓 BTech CSE | 🧠 ML & OS Enthusiast | 🌱 Lifelong Learner</h3>
+<h1 align="center">Hey 👋, I'm Tanmay Dhiman</h1>
+<h3 align="center">🎓 BTech CSE | 🧠 AI & ML Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Practical+Solutions+with+Code;Learning+Machine+Learning+%26+Data+Science;Improving+every+single+day+🚀" alt="Typing SVG" />
@@ -10,13 +10,13 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanmay2765" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="tanmaydhiman2765@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE/">
+  <a href="https://leetcode.com/tanmay2765/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://your-portfolio-link.com">
@@ -85,7 +85,7 @@
 - 🔐 **Fingerprint Sensor Integration**  
   Biometric authentication prototype.
 
-- ⚙️ **OS Optimizer (In Progress)**  
+- ⚙️ **OS Optimizer **  
   Improving OS performance with smart resource allocation.
 
 ---
@@ -93,23 +93,23 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmay2765&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay2765&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2765&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay2765&theme=github_dark" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/tanmay2765/tanmay2765/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -128,8 +128,8 @@
 
 ## 📬 Let’s Connect
 
-💌 **Email:** your_email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+💌 **Email:** tanmaydhiman2765@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tanmay2765)  
 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
