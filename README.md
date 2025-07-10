@@ -93,12 +93,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmay2765&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmay&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay2765&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2765&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
