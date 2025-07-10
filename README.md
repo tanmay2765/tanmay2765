@@ -145,7 +145,7 @@
 ## 📬 Let’s Connect
 
 💌 **Email:** tanmaydhiman2765@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tanmay2765)  
+💼 **LinkedIn:** [linkedin.com/in/tanmay2765(https://www.linkedin.com/in/tanmay2765)  
 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
