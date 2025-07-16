@@ -20,7 +20,7 @@
   <a href="https://leetcode.com/tanmay2765/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://your-portfolio-link.com](https://portfolioreal.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
