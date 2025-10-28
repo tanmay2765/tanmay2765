@@ -20,7 +20,7 @@
   <a href="https://leetcode.com/tanmay2765/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://portfolioreal.lovable.app">
+  <a href="https://portanmay.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
@@ -146,7 +146,7 @@
 
 💌 **Email:** tanmaydhiman2765@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/tanmay2765(https://www.linkedin.com/in/tanmay2765)  
-🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+🌐 **Portfolio:** https://portanmay.vercel.app/
 
 ---
 
